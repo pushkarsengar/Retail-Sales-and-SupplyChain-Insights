@@ -43,10 +43,10 @@ Comprehensive Global Retail Dataset including Transactions, Geography, Product C
 ### **6. Screenshots / Demos**
 
 #### **Page 1: Overview**
-![Overview](INSERT_IMAGE_LINK_1)
+![Overview](https://github.com/pushkarsengar/Retail-Sales-and-SupplyChain-Insights/blob/main/Global_Sales_Overview_Dashboard.png)
 
 #### **Page 2: Analytics**
-![Analytics](INSERT_IMAGE_LINK_2)
+![Analytics](https://github.com/pushkarsengar/Retail-Sales-and-SupplyChain-Insights/blob/main/Product_Profitability_and_Margin_Analytics.png)
 
 #### **Page 3: Logistics**
-![Logistics](INSERT_IMAGE_LINK_3)
+![Logistics](https://github.com/pushkarsengar/Retail-Sales-and-SupplyChain-Insights/blob/main/Logistics_and_Supply_Chain_Insights.png)
