@@ -6,7 +6,7 @@ A professional 3-page Power BI dashboard for Global Sales, Profitability, and Lo
 ---
 
 ### **1. Project Title / Headline**
-**Global Sales Analytics & Logistics Suite** *Example: 🚀 SalesGenius: End-to-End Business Performance Dashboard*
+**Global Sales Analytics & Logistics Suite** *Example: 🚀 SalesGenius: End-to-End Business Performance Dashboard.*
 
 ---
 
